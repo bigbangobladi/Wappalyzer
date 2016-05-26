@@ -1,5 +1,15 @@
 {
   "apps": {
+  	"Big Bang Shop": {
+			"cats": [
+				6
+			],
+			"headers": {
+				"Set-Cookie": "BIG_BANG_SHOP_SID="
+			},
+			"icon": "big_bang_shop.png",
+			"website": "www.bigbangshop.com.br"
+		},
     "Strato": {
       "cats": [
         6
